@@ -1,5 +1,6 @@
 ---
 title: "DRT-JLM-01"
 drtTrips: drt-vehicles.json.gz
+carTrips: car-vehicles.json
 thumbnail: thumbnail.png
 center: [35.2137, 31.7683]
